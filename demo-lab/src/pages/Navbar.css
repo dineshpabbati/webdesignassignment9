@@ -1,0 +1,14 @@
+.navbar{
+    text-decoration:none;
+    
+
+
+}
+
+.rightside{
+    text-decoration: none;
+    margin: auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
